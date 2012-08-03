@@ -13,3 +13,4 @@
 </ul>
 </p>
 <p><b>*</b>: Since my project involved working with graphs that only contains minimal information (Node #1, Node #2) I've come up with using the <b>weight</b> between two nodes as my cardinality parameter.</p>
+<p>The file <b>testGraph.txt</b> can be an example for what kind of input the program requires.</p>
